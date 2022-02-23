@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for the further supply of the British army in Ireland</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37973</idno>
+            <idno type="STC">Wing E1983</idno>
+            <idno type="STC">ESTC R25066</idno>
+            <idno type="EEBO-CITATION">08740244</idno>
+            <idno type="OCLC">ocm 08740244</idno>
+            <idno type="VID">41710</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41710)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1259:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for the further supply of the British army in Ireland</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At head of title: Die Sabbathi, 27 Sept. 1645.</note>
+                  <note>Signed at end: Ioh. Brown, Cleric. Parliamentorum ; H. Elsynge Cler. Parl. D. Com.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  Great Britain.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:41710:1"/>
+            <head>
+               <hi>Die Sabbathi,</hi> 27. <hi>Sept.</hi> 1645.</head>
+            <head type="sub">An Ordinance of the Lords and Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, for the further ſupply of the Britiſh Army in IRELAND.</head>
+            <p>
+               <seg rend="decorInit">V</seg>VHereas the Lords and Commons in this preſent Parliament aſſembled, have by an Ordinance publiſhed the Eighteenth day of <hi>October,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred fourty and four, Ordained and Declared, That for the ſupport and ſup<g ref="char:EOLhyphen"/>ply of the Brittiſh forces of Horſe and Foot in the Pro<g ref="char:EOLhyphen"/>vinces of <hi>Vlſter, Munſter</hi> and <hi>Connaught</hi> in the Kingdom of <hi>Ireland,</hi> ſeverall weekly ſums of money in the ſaid Or<g ref="char:EOLhyphen"/>dinance expreſſed, ſhould be Charged, Rated, Taxed and leavied, upon all and every the ſeverall Counties, Cities, Towns, Liberties and places of the Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> to begin from the firſt of <hi>September</hi> then laſt paſt, and to continue for the ſpace of twelve moneths; which moneys were to be iſ<g ref="char:EOLhyphen"/>ſued for the ſervice aforeſaid, in ſuch manner as the Com<g ref="char:EOLhyphen"/>mittee of both Kingdoms, or ſuch perſons as ſhould be by them Authorized by their Order ſhould direct.</p>
+            <p>In which Ordinance, a ſpeciall Proviſo is had and made, that no part of the money, which ſhould be lea<g ref="char:EOLhyphen"/>vied or paid in by vertue of, or according to the tenour thereof, ſhould be imployed to any other purpoſe, but on<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:41710:2"/>for providing and ſending ſupplies for the ſaid Brittiſh forces, and carrying on of that war, until the ſum of Four<g ref="char:EOLhyphen"/>ſcore thouſand pounds had been Leavied, Collected and paid into the Treaſurers appointed by that Ordinance to be diſpoſed of for that purpoſe, as therein is expreſſed; And then Ordained and Declared, That whatſoever mo<g ref="char:EOLhyphen"/>neys ſhould be Leavied, Raiſed, and paid to the ſaid Treaſurers by vertue of that Ordinance, over and above the before mentioned ſum of Fourſcore thouſand pounds, ſuch overplus of money ſhould be diſpoſed of, in ſuch manner as ſhould be further reſolved and ordain<g ref="char:EOLhyphen"/>ed by the Lords and Commons in Parliament, as in and by the ſaid Ordinance amongſt other things more at large doth appear.</p>
+            <p>And whereas the Committee of both Kingdoms in purſuance of the ſaid Ordinance, and of other Directions from the Houſes of Parliament, hath already diſpoſed of, or elſe deſigned for the payment of the Commanders, Of<g ref="char:EOLhyphen"/>ficers and Souldiers, and for the providing, ſending over into <hi>Ireland,</hi> and paying for Victuals, Cloathes, Armes, Ammunition, and other things neceſſary for ſupply and maintenance of the ſaid Brittiſh Forces, and o<g ref="char:EOLhyphen"/>ther neceſſary occaſions incident thereunto, the aforeſaid ſum of Fourſcore thouſand pounds, which is to be paid according to the engagements, contracts and agreements by them for that purpoſe made, and to be made, and not to be otherwiſe diverted.</p>
+            <p>And foraſmuch as there is now required for the uſe of the Scotiſh Army in <hi>Ireland,</hi> Sixteen thouſand Bolle of Oat<g ref="char:EOLhyphen"/>meal, Seven thouſand Caſſocks and Breeches, Seven thou<g ref="char:EOLhyphen"/>ſand Shirts, Seven thouſand pair of ſhoes, Seven thouſand pair of ſtockings, Seven thouſand Caps for the Common Souldiers, &amp; Four thouſand pounds worth of Cloth, &amp; o<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:41710:2"/>neceſſaries for the Officers of the ſaid Scottiſh Army; And that Mr. <hi>John Davies</hi> of Carrickfergus in <hi>Ireland,</hi> hath propounded and contracted to furniſh the ſame at certain Rates and Prizes, and upon ſuch conditions as are agreed on betwixt the Houſe of Commons and him the three and twentieth of <hi>April</hi> laſt, the whole charge thereof amounting to the ſum of Four and twenty thouſand ſeven hundred and fifty pounds, ſo that he may receive payment and ſatisfaction in manner following; (that is to ſay) By advance unto him of the ſum of Three thouſand pounds within one moneth, Three thouſand ſeven hundred and fifty pounds more within one moneth after that, and by receiving the reſidue, being Eighteen thouſand pounds, out of the Ordinance of Parliament for <hi>Ireland,</hi> of the Eighteenth of <hi>October,</hi> One thouſand ſix hundred forty &amp; four, before mentioned, after the ſaid Fourſcore thouſand pounds by that Ordinance limited, and by the Commit<g ref="char:EOLhyphen"/>tee of both Kingdoms, either diſpoſed, or to be by them diſpoſed of for the Brittiſh forces in <hi>Ireland,</hi> ſhall be paid or ſatisfied: And upon condition that he may out of the remain of the money that ſhall come in by the ſaid Ordi<g ref="char:EOLhyphen"/>nance of the Eighteenth of <hi>October,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty and four, for <hi>Ireland,</hi> after the aforeſaid ſums of Fourſcore thouſand pounds, and, Eighteen thouſand pounds are paid, receive ſatisfaction of the ſeverall ſums of Nine thouſand forty and five pounds, which appears by his Accompt made the tenth of <hi>April,</hi> One thouſand ſix hundred forty and three, to be due unto him above two years ſince, for proviſions delivered unto the Brittiſh and Scottiſh Regiments in <hi>Ulſter,</hi> by direction of the Par<g ref="char:EOLhyphen"/>liament, and contract made with Mr. <hi>Nathaniell Fiennes,</hi> Sir <hi>Philip Stapleton,</hi> and Mr. <hi>John Hampden;</hi> and of Three thouſand one hundred and fifty pounds, which he ſtan<g ref="char:EOLhyphen"/>deth
+<pb n="4" facs="tcp:41710:3"/>engaged for to Mr. <hi>Maximiliam Beard,</hi> and Mr. <hi>Thomas Brown</hi> of Cheapſide <hi>London,</hi> for proviſions deli<g ref="char:EOLhyphen"/>vered in <hi>Ireland</hi> to that value; and for which they re<g ref="char:EOLhyphen"/>ceived Warrants to be paid out of the Adventurers mo<g ref="char:EOLhyphen"/>ney, but have not received any of the ſame, the ſaid War<g ref="char:EOLhyphen"/>rants nevertheleſſe being charged upon him in his Ac<g ref="char:EOLhyphen"/>compts: And in caſe he ſhall not receive full ſatisfaction out of the ſaid Ordinance in the way propounded of, the before mentioned Eighteen thouſand pounds, and the Twelve thouſand, one hundred, ninety and five pounds, ſo due unto him upon his Accompt, and to Mr. <hi>Beard</hi> and Mr. <hi>Brown,</hi> within ſix months next after his delivery of that quantity of Oat-meal at <hi>Carrickfergus,</hi> and the Shipping of the other goods from hence, Certificates being retur<g ref="char:EOLhyphen"/>ned of the ſame, ſome other courſe and way may be found out to ſatisfie unto him ſo much thereof as ſhall be be<g ref="char:EOLhyphen"/>hinde, and cannot be raiſed by that Ordinance.</p>
+            <p>The Lords and Commons in this preſent Parlia<g ref="char:EOLhyphen"/>ment, reſolving to purſue the aforeſaid Contract, made the three and twentieth of <hi>April</hi> laſt paſt, with the ſaid Mr. <hi>Davies,</hi> for ſupplying the Stottiſh Army in <hi>Ireland,</hi> with the Oat-meal, Clothes, and other neceſſaries now by them ſo required, and that payment be made unto him in the manner, and within the time limited; And alſo to give ſatisfaction unto the ſaid Mr. <hi>Davies</hi> for the debt al<g ref="char:EOLhyphen"/>ready due unto him; and for his other demands in the the way propounded, as may be for his indempnity and future encouragement to undergo the like good ſervices: They have already taken Order, That the ſum of Three thouſand pounds is paid or ſeeured unto him, the ſaid Mr. <hi>John Davies,</hi> or his Aſſignes, in lieu and ſatisfaction of the firſt Three thouſand pounds by him required in his Pro<g ref="char:EOLhyphen"/>poſition, to be advanced within one moneth: And for
+<pb n="5" facs="tcp:41710:3"/>the ſame purpoſe have alſo ſettled the payment of Three thouſand, ſeven hundred and fifty pounds more, in lieu and ſatisfaction of ſo much propounded, to be paid unto him &amp; his Aſſignes within another moneth next after the firſt: And for his further ſatisfaction and payment of the reſidue of the moneys, that according to the Rates and Prizes before expreſſed, ſhall become due unto him the ſaid <hi>John Davies,</hi> for the Oat-meal, Clothes, Cloth, and other neceſſaries, which in performance of this Con<g ref="char:EOLhyphen"/>tract he ſhall deliver at <hi>Carrickfergus</hi> in <hi>Ireland,</hi> or Ship from hence for the uſe of the Scottiſh Army in <hi>Ireland,</hi> ſuch reſidue amounting to Eighteen thouſand pounds. The ſaid Lords and Commons have thought fit to Or<g ref="char:EOLhyphen"/>dain and Declare, and be it hereby Ordained and Decla<g ref="char:EOLhyphen"/>red, That the ſame ſhall be paid unto him or his Aſſignes out of the firſt of ſuch moneys as ſhall come to the Trea<g ref="char:EOLhyphen"/>ſurers hands, out of all the Counties, Cities, Towns and places of the Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> by vertue and means of the before mentioned Or<g ref="char:EOLhyphen"/>dinance of Parliament, of the Eighteenth of <hi>October</hi> laſt, for relief of the Brittiſh Armies in <hi>Ireland,</hi> next and immediatly after the beforeſaid ſum of Fourſcore thou<g ref="char:EOLhyphen"/>ſand pounds intended by the ſaid Ordinance, and already diſpoſed or deſigned by the Committee of both King<g ref="char:EOLhyphen"/>doms, for relief of thoſe Brittiſh Armies, is accordingly ſatisfied and paid.</p>
+            <p>And it is hereby further Ordained and Declared, That when and as ſoon as the before mentioned ſum of Four ſcore thouſand pounds ſhall be ſatisfied and paid as afore<g ref="char:EOLhyphen"/>ſaid, for the relief of the Britiſh Armies in <hi>Ireland,</hi> and Eighteen thouſand pounds as aforeſaid, towards the ſup<g ref="char:EOLhyphen"/>ply of the Scottiſh Armies in that Kingdom, out of the moneys ariſing and coming in by means and vertue of the
+<pb n="6" facs="tcp:41710:4"/>Ordinance of Parliament of the Eighteenth of <hi>October</hi> laſt; Then payment and ſatisfaction ſhall be made and given out of the remainder of thoſe moneys unto the ſaid <hi>John Davies</hi> and his aſſignes, of the before mentioned ſum of Nine thouſand fourty and five pounds due unto him upon his accompt, for proviſions delivered to the Scottiſh and Brittiſh Regiments of Horſe and Foot in <hi>Vlſter</hi> in <hi>Ireland</hi> above two years ſince by direction of the Parliament, and contract made as aforeſaid with <hi>Na<g ref="char:EOLhyphen"/>thaniel Fines</hi> Eſquire, Sir <hi>Philip Stapleton</hi> Knight, and <hi>John Hampden</hi> Eſquire; and of Three thouſand one hun<g ref="char:EOLhyphen"/>dred and fifty pounds more unto him or his Aſſignes for diſ-ingagement of him to Maſter <hi>Maximilian Beard,</hi> and Maſter <hi>Thomas Brown</hi> of Cheapſide, of the reſpective Sums as aforeſaid of Fifteen hundred pounds, and Six<g ref="char:EOLhyphen"/>teen hundred and fifty pounds, he procuring them upon payment of the ſaid moneys, to deliver up to be cancelled the Warrants and Orders which they formerly had for the payment of the ſame; And the preſent Committee of both Kingdoms, who have now the power of iſſu<g ref="char:EOLhyphen"/>ing out the moneys, ariſing and coming in by the afore<g ref="char:EOLhyphen"/>ſaid Ordinance of Parliament of the Eighteenth of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> laſt, or any other Committee that ſhall be hereafter authoriſed thereunto, are not to divert or diſpoſe of thoſe moneys, or any part of them, to any other uſe, or to any other perſon whatſoever, but for the payment and ſatis<g ref="char:EOLhyphen"/>faction of the ſaid <hi>John Davies</hi> and his Aſſignes, the be<g ref="char:EOLhyphen"/>fore mentioned ſums of money hereby Ordered to be reſpectively paid unto them: But the ſaid Committees are hereby authoriſed and required, as it ſhall be made ap<g ref="char:EOLhyphen"/>pear unto them by the Certificate of ſuch perſon as is in<g ref="char:EOLhyphen"/>truſted to receive the ſame, That the ſaid <hi>John Davies</hi> or his Aſſignes, ſhall ſhip away from <hi>London</hi> the Cloth,
+<pb n="7" facs="tcp:41710:4"/>Suits of Clothes, Shirts, Stockings, Shoes, and Caps, according to the Contract before mentioned, for the uſe of the Scottiſh Army in <hi>Ireland;</hi> and that he ſhall deliver for their uſe at <hi>Carrickfergus</hi> in <hi>Ireland,</hi> the Oat-meal as is before expreſſed, To grant and iſſue forth their Orders and Warrants unto the Treaſurers appointed by that Ordinance for payment of the ſeverall and reſpective ſums of money, unto the ſaid <hi>John Davies,</hi> or his Aſ<g ref="char:EOLhyphen"/>ſignes, in the courſe and order herein preſcribed, which Orders and Warrants the ſaid Treaſurers are hereby re<g ref="char:EOLhyphen"/>quired to obſerve accordingly, and to diſcharge the ſame: And it is hereby recommended to the ſaid Committee of both Kingdoms, to uſe all good means for the ſpeedy Leavying, and bringing in out of the ſeverall Counties, Cities, Towns and places of this Kingdom, and the Dominion of <hi>Wales,</hi> the moneys required by that Ordi<g ref="char:EOLhyphen"/>nance, who hereby are authorized to ſend forth ſuch Let<g ref="char:EOLhyphen"/>ters and Warrants, for the better effecting thereof, as they ſhall think meet; And it is hereby alſo further Or<g ref="char:EOLhyphen"/>dained and Declared, by the Lords and Commons in this preſent Parliament aſſembled, That they will from time to time, as occaſion ſhall require, nominate Com<g ref="char:EOLhyphen"/>mittees in ſuch places and Counties within this Kingdom and Dominion of <hi>Wales</hi> as have been hitherto omitted in the aforeſaid Ordinance of the Eighteenth of <hi>October</hi> laſt; and will alſo adde to the preſent reſpective Com<g ref="char:EOLhyphen"/>mittees of any Counties, City, Town and place, ſuch perſons as ſhall be recommended, and be for the better advancement of the ſervice.</p>
+            <p>And whereas there are not any perſons ſpecially named for the Iſle of <hi>Wight,</hi> &amp; ſome other places and Counties in this Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> as Committees to execute the powers in the ſaid Ordinance
+<pb n="8" facs="tcp:41710:5"/>of the Eighteenth of <hi>October,</hi> and in ſome other Counties and places, ſome perſons of eminent note are omitted, whereby the ſervice therein is neglected; Be it further Ordained, That</p>
+            <div type="part">
+               <head>For the Iſle of Wight.</head>
+               <p>Sir <hi>Henry Worſl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> and Sir <hi>Robert Liſle,</hi> Knights; <hi>Robert Dillington, John Liſle, William Bowreman, Edw: Dennis, Thomas Bowreman, William Maynard, Edward Cheek, John Worſley,</hi> and <hi>John Bunkley,</hi> Eſquires; <hi>Robert Mathews,</hi> Alderman; <hi>Thomas Kerne</hi> Colonell; Captain <hi>Man,</hi> and <hi>Henry Ringwood</hi> Gentleman, Mr. <hi>Legg,</hi> Mr. <hi>Oglander.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of Hereford.</head>
+               <p>Sir <hi>Robert Harley</hi> Knight of the Bath, Colonell <hi>Ed<g ref="char:EOLhyphen"/>ward Harley, Iames Kirle</hi> Eſquire; Colonell <hi>Edward Broughton, John Flacet</hi> Junior, <hi>Henry Jones</hi> Gentleman, Captain <hi>Thomas Blaney.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of Monmouth.</head>
+               <p>
+                  <hi>Herbert</hi> Eſquire, Knight of the Shire; <hi>Thomas Hughes</hi> Eſquire, <hi>John Walter</hi> Eſquire, <hi>Rumſey</hi> Gentleman, <hi>Chriſtopher Catchman,</hi> and <hi>William Jones</hi> Gentlemen be reſpective Committees for the purpoſes in the ſaid Ordinance mentioned; and are required to do and execute all ſuch powers, authorities &amp; things within the ſaid Iſle and Counties, to be done as fully as any other perſons are authorized by the ſaid Ordinance for any other place in that Ordinance mentioned; And that there ſhall be added to the preſent reſpective Committees in the ſaid re<g ref="char:EOLhyphen"/>cited Ordinance named of the Counties and places here<g ref="char:EOLhyphen"/>after mentioned, <hi>viz.</hi>
+               </p>
+               <pb n="9" facs="tcp:41710:5"/>
+               <p>To the Committees for the County of Middleſex, <hi>John Hicks</hi> Gentleman.</p>
+               <p>To the Committees for the County of Eſſex, <hi>Joachim Mathews</hi> Eſquire, <hi>Edward Pickrell</hi> Gentleman.</p>
+               <p>To the Committees for the County of Suſſex, <hi>William Freeman, Nicholas Shepherd, Richard Gates, Henry Avery, William Waterfield.</hi>
+               </p>
+               <p>To the Committees for the County of Leiceſter, <hi>Cradock</hi> Gentleman.</p>
+               <p>To the Committees for the county of Hertford, <hi>George Smith</hi> Eſquire. And to the Committees for the county of Bedford, Sir <hi>VVilliam Butler</hi> Knight.</p>
+               <p>To the Committees of the County of <hi>Devon, Chriſto<g ref="char:EOLhyphen"/>pher Savorey of Strilſon</hi> Eſquire in the County of <hi>Devon; Philip Crooker</hi> and <hi>Richard Wood</hi> Eſquires.</p>
+               <p>And to the reſpective Committees of the ſeverall coun<g ref="char:EOLhyphen"/>ties of <hi>Gloceſter, VVilts, Dorſet, Somerſet, Devon,</hi> and <hi>Cornwall,</hi> and counties of the city of <hi>Glocester</hi> and city of <hi>Exon.</hi>
+               </p>
+               <p>Colonell Generall <hi>Maſſey,</hi> and Colonell <hi>Nicholas Devereux.</hi>
+               </p>
+               <p>And the ſaid perſons ſo added to the ſaid Committees as aforeſaid, and every of them are hereby authorized, and required to do and act in every reſpect, as if they had been originally named and appointed of ſuch Committees by the ſame Ordinance.</p>
+               <p>And becauſe it will much concern the ſaid <hi>John Davies</hi> to have the moneys ariſing by that Ordinance duly lea<g ref="char:EOLhyphen"/>vied, Collected and brought in to the Treaſurers hands within the time limited by the contract made with him: It is hereby thought fit and declared that the ſaid <hi>John Davies</hi> ſhall have power to nominate and imploy ſuch perſons as he ſhall make choice of, and for whom he will
+<pb n="10" facs="tcp:41710:6"/>anſwer to earry the Letters, Warrants, and inſtructions of the Houſes of Parliament, and of the Committee of both Kingdoms to the ſeverall parts of this Kingdom, and Dominion of <hi>VVales,</hi> and to ſollicite the Commit<g ref="char:EOLhyphen"/>tees of the Counties, Cities, Towns and places; and the Collectors and other Officers imployed for the Leavy<g ref="char:EOLhyphen"/>ing, Collecting and bringing in of thoſe moneys, and to bring from time to time their reſpective anſwers and proceedings.</p>
+               <p>And for the defraying of the charges of ſuch perſons and Meſſengers: It is hereby ordained and declared that an allowance of ſix pence upon every twenty ſhillings to be brought in by means or vertue of that Order, after the before mentioned ſum of Fourſcore thouſand pounds, al<g ref="char:EOLhyphen"/>ready diſpoſed of, or deſigned by the Committee of both Kingdoms for the Brittiſh Army in <hi>Ireland</hi> ſhall be ſa<g ref="char:EOLhyphen"/>tisfied and paid, ſhall be made and given unto the ſaid <hi>John Davies</hi> or his Aſſigns; And the Committee of both Kingdoms are hereby authorized, and required to give order to the Treaſurers for payment and allowance there<g ref="char:EOLhyphen"/>of, who are according to ſuch orders to pay and allow the ſame out of thoſe moneys ſo coming in by the ſaid Ordinance.</p>
+               <p>And it is hereby further Reſolved, Ordained and De<g ref="char:EOLhyphen"/>clared by the Lords and Commons in this preſent Par<g ref="char:EOLhyphen"/>liament aſſembled, That in caſe the ſaid <hi>John Davies</hi> or his aſſignes ſhall not by and out of the moneys coming in by the ſaid Ordinance, receive full ſatisfaction of the ſe<g ref="char:EOLhyphen"/>verall ſums hereby Ordained to be reſpectively paid unto them within the ſpace of ſix moneths next after the deli<g ref="char:EOLhyphen"/>very of the full quantities of Oat-meal at <hi>Carrickfergus,</hi> and the ſhipping of other goods from hence (due certi<g ref="char:EOLhyphen"/>ficate being made and returned to the Speaker of the
+<pb n="11" facs="tcp:41710:6"/>Houſe of Commons for the time being, or the Commit<g ref="char:EOLhyphen"/>tee of both Kingdoms concerning the ſame by the Com<g ref="char:EOLhyphen"/>mander in chief of that army for the Oat-meal, and by ſuch as ſhall be intruſted to receive the other goods here) And the ſaid <hi>John Davies</hi> or his aſſignes making it appear how much at that time is unpaid and due unto him; That then, and in ſuch caſe the ſaid <hi>John Davies</hi> his Executors and aſſignes ſhall be allowed, and paid damage after the Rate of Eight pounds <hi>per Centum, per Annum</hi> from the failer of payment at ſix moneths end as aforeſaid, of ſo much of the ſaid moneys as ſhall be unpaid and unſatisfied; And that ſome further and fit way and courſe for ſatisfaction thereof, ſhall be taken by both Houſes of Parliament.</p>
+               <p>And whereas ſome doubt hath been conceived by ſome, whether the ſaid Ordinance be to continue one full year, by reaſon of ſome expreſſions which they conceive to be doutfull: It is hereby Ordained and Declared, That the ſame is to have continuance for the ſpace of one full and entire year (that is to ſay) from the firſt day of Sep<g ref="char:EOLhyphen"/>tember, One thouſand ſix hundred forty and four, untill the ſecond day of September, One thouſand ſix hundred forty and five, in thoſe Counties, Ci<g ref="char:EOLhyphen"/>ties and places, where the ſaid moneys have been already Taxed, Rated, and Aſſeſſded, and in thoſe Counties, Cities and places, where no Aſſeſſments have as yet been made by vertue of the ſaid recited Ordi<g ref="char:EOLhyphen"/>nance, by reaſon of the preſent diſtractions, to begin and have Commencement from ſuch time as they ſhall be re<g ref="char:EOLhyphen"/>duced to the Obedience of the Parliament, and to conti<g ref="char:EOLhyphen"/>nue for the ſpace of one entire year, likewiſe to the end all places may pay their reſpective ſhares and proportions towards ſo good and profitable a work.</p>
+               <pb n="12" facs="tcp:41710:7"/>
+               <p>And whereas divers ſums of money to be raiſed by vertue of the ſaid recited Ordinance, may after the Col<g ref="char:EOLhyphen"/>lecting thereof, peradventure lye and remain in the Col<g ref="char:EOLhyphen"/>lectors hands ſome ſpace of time, before the ſame can with conveniency and ſafety be brought to <hi>London,</hi> which may prove very prejudiciall to the ſaid Mr. <hi>John Davies,</hi> by occaſioning delay in the payment of ſuch moneys as are or ſhall be aſſigned unto him out of the money to be raiſed by vertue of the ſaid Ordinance, in caſe he might not receive the ſame untill it be firſt brought up and paid in to the ſaid Treaſurers at Grocers Hall; Be it therefore Ordained and Declared, That if the ſaid Mr. <hi>John Davies</hi> ſhall at any time or times hereafter, be willing &amp; deſirous to receive and take any part of the moneys to him Aſ<g ref="char:EOLhyphen"/>ſigned, or to be Aſsigned of any of the Collectors in the ſeverall Counties or places where the ſame ſhall be Col<g ref="char:EOLhyphen"/>lected, and ſhall to that end deliver unto the Treaſurers at Grocers Hall, in the ſaid Ordinance named, a ſufficient Acquittance for the ſame, as for ſo much money by him received of them, That then the ſaid Treaſurers ſhall up<g ref="char:EOLhyphen"/>on Receipt of every ſuch acquittance, deliver unto the ſaid Mr. <hi>John Davies,</hi> Acquittances to the ſeverall Col<g ref="char:EOLhyphen"/>lectors, for ſuch moneys in like manner, as if the ſaid Collectors had paid in the ſame to the ſaid Treaſurers at Grocers Hall in <hi>London,</hi> any thing in the ſaid recited Or<g ref="char:EOLhyphen"/>dinance to the contrary notwithſtanding.</p>
+               <closer>
+                  <signed>Ioh: Brown, Cleric. Parliamentorum.</signed>
+                  <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
